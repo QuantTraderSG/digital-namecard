@@ -33,15 +33,15 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
-	width: 30%;
+	height: 29%;
+	width: 29%;
 	object-fit: cover;
 	border-radius: 50%;
 }
 
 img.logo-pic {
-	height: 30%;
-	width: 30%;
+	height: 25%;
+	width: 25%;
 	object-fit: contain;	
 }
 
