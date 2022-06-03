@@ -40,8 +40,8 @@ img.profile-pic {
 }
 
 img.logo-pic {
-	height: 100px;
-	width: 100px;
+	height: 30%;
+	width: 30%;
 	object-fit: contain;	
 }
 
